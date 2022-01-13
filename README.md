@@ -6,6 +6,13 @@ The employee tracker application was created for business owners to be able to v
 
 ## Screenshots of Employee Tracker
 
+![1](https://user-images.githubusercontent.com/87215165/149254018-ce6ecd32-b1eb-49c5-ac1d-59a0907e4b1b.png)
+
+![2](https://user-images.githubusercontent.com/87215165/149254033-c3e6d395-f96d-4866-b7d2-7c2424d5394f.png)
+
+![3](https://user-images.githubusercontent.com/87215165/149254036-246c9d66-adec-4fed-a3f5-632bc732ef3f.png)
+
+
 ## Links
 Deployed Application: https://mnijjar24.github.io/employeetracker/ 
 Github Repo: https://github.com/mnijjar24/employeetracker 
