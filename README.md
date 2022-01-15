@@ -17,4 +17,3 @@ The employee tracker application was created for business owners to be able to v
 Deployed Application: https://mnijjar24.github.io/employeetracker/ 
 Github Repo: https://github.com/mnijjar24/employeetracker 
 Link to walkthrough video: https://www.youtube.com/watch?v=BYO3jBnZoiA
- 
